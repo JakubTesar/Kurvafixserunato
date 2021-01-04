@@ -1,0 +1,82 @@
+.Ulnavigace{
+    background-color: #730101;
+    margin: -15px;
+    border: solid #ffffff 3px;
+    text-align: center;
+}
+
+.littoje{
+    display: inline-block;
+}
+a{
+    text-align: center;
+    color: #ffffff;
+    text-decoration: none;
+    font-family: "Arial Black";
+    padding: 150px;
+
+}
+.kontakty{
+    padding: 2px;
+}
+.kontakty2{
+    color: #ffffff;
+    padding: 2px;
+}
+.kontakty2:hover{
+    color: #ffffff;
+
+}
+a:hover{
+    color: red;
+}
+.body{
+    background-size: cover;
+    background-image: url("Backgroundred4.jpg");
+}
+.Div1{
+    float: left;
+    background-image: url("Backgroundred3.jpg");
+    height: 520px;
+    width: 805px;
+    margin: 60px;
+    border: solid #ffffff 1px;
+}
+.Div2{
+    background-image: url("Backgroundred3.jpg");
+    height: 520px;
+    width: 805px;
+    margin: 60px;
+    border: solid #ffffff 1px;
+}
+.nadpisdivu{
+    font-size: 30px;
+    font-family: "Arial Black";
+    padding: 30px;
+    color: #ffffff;
+}
+.img2{
+    float: left;
+    height: 520px;
+    width: 805px;
+    margin: 60px;
+    border: solid white 1px;
+}
+img{
+    height: 520px;
+    width: 805px;
+}
+.necoomne{
+    font-size: 20px;
+    font-family: "Arial Black";
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+}
+.info{
+    font-size: 20px;
+    font-family: "Arial Black";
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+}
