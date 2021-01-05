@@ -23,12 +23,12 @@ a{
     color: #ffffff;
     padding: 2px;
 }
-.kontakty2:hover{
-    color: #ffffff;
+.kontakty:hover{
+    color: #0033ff;
 
 }
-a:hover{
-    color: #0055ff;
+.Navigace:hover{
+    color: #ff0000;
 }
 .body{
     background-size: cover;
