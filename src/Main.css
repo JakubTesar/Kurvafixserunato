@@ -32,10 +32,17 @@ a{
 }
 .body{
     background-size: cover;
-    background-image: url("Backgroundred4.jpg");
+    background-color: #252629;
 }
+
+
+.plsdiv{
+    display: flex;
+    justify-content: center;
+}
+
+
 .Div1{
-    float: left;
     background-image: url("Backgroundred3.jpg");
     height: 520px;
     width: 805px;
